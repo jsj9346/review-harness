@@ -105,9 +105,9 @@ description과 매칭되면 자동 호출.
 
 ## 관련 스킬
 
-- **design-harness** — 하네스를 **설계·생성**한다. 리뷰 중 빈 Gap이 발견되면
+- **[design-harness](https://github.com/jsj9346/design-harness)** — 하네스를 **설계·생성**한다. 리뷰 중 빈 Gap이 발견되면
   여기로 넘긴다 (리뷰가 설계로 번지면 리뷰 결과를 검증할 수 없다).
-- **design-graph** — 여러 Node를 **연결**하는 그래프를 설계한다.
+- **[design-graph](https://github.com/jsj9346/design-graph)** — 여러 Node를 **연결**하는 그래프를 설계한다.
 
 자세한 내용은 [SKILL.md](SKILL.md) / [codex/SKILL.md](codex/SKILL.md).
 
